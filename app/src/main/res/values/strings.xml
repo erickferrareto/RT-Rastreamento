@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Refazendo Códigos</string>
+    <string name="lista_empty">Sem Lista</string>
+    <string name="listaTxt">Lista</string>
+    <string name="coletaTxt">Coleta</string>
+    <string name="pesquisaTxt">Pesquisa</string>
+</resources>
